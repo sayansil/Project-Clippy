@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: #444;
+}
+#x_btn {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#252525, #333);
+}
+#x_btn:pressed {
+    -fx-background-color: linear-gradient(#333, #252525);
+}
+#min_btn {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#252525, #333);
+}
+#min_btn:pressed {
+    -fx-background-color: linear-gradient(#333, #252525);
+}

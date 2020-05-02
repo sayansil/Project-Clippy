@@ -1,0 +1,189 @@
+
+TERMS AND CONDITIONS
+
+
+
+
+
+1. Who, Why, What
+
+
+Who:  CLYPE is maintained by Fume Labs (F-Labs). At times F-Labs may also be referred to as
+"we", "us", "FLabs", "FL" or "FumeLabs".  The person who is viewing or interacting this app we will refer to as "you",
+"hey you", or where appropriate "jerk" (only if you're being one).
+
+
+Why:  This Terms of Service Agreement ("Agreement") is our contract with you, and tells you what you
+can and can't do and what we can and can't do with you.
+
+
+What: FL is a bad ass team of lazy coders. It codess about love, with love (we don't get that back,
+of course).
+
+There are times when we might make some $$$$$ by:
+    (1) telling people about some of thing you have told us about yourself (only if you have given
+        us permission);
+    (2) telling you about people that have paid us to talk about them; and
+    (3) selling premium accounts.  Btw, If you're buying from us, you will PAY
+        for what you order when you order it.  Since we wear the pants around here, its up to us whether 
+        we'll sign you up or not, and like your prom date we may reject you..so try again :-) .
+
+
+2.  VERY BAD THINGS THAT YOU CANNOT DO
+
+
+We want you to like us, we really do. But the internet is dangerous, and we don't like danger spilling
+over onto our software. So while some of this may seem OBVIOUS, we have to tell you because sometimes
+its good to be reminded.  So when using our software we expect the following:
+
+    Don't Spam, or try to see what happens if you overload our servers. Curiosity killed the cat;
+    Don't give us viruses or try and hack your way into our computers;
+    Don't be a robot.  Robots are evil. Don't use bots to keep a watch over your girlfriend's clipboard
+        data(get one first though). Seriously...don't.
+    Don't be a jerk.  A jerk is someone who tries to access paid features from us for free.
+        Don't do any of that.  We'll ban you.
+    Don't do things that you're not supposed to or don't have permission for or your mama told you not to.
+    Don't do other things that we don't like, which is up to us.
+
+If you follow the rules, you can stay. If you don't, we can kick you out, haul your ass to court, or
+tell the guys from police about what you've done so they'll put you under surveillance.  Our failure
+to enforce against one person is not a waiver to enforce our rights at any time for the same or different
+offenses.
+
+
+3.  INTELLECTUAL PROPERTY
+
+
+    Don't steal our stuff.  By stuff, we mean the awesome logo, code, pictures, videos, sounds (ummm, 
+    not sure what kind of sounds we'll make..but you can be sure you can't have them without our permission)
+    (altogether known as "Content").  So our Content is protected by all the freaking laws you can think of.
+    
+    Seriously. This includes  the Copyright Act, 1957 (Section 2, Article (weirdsquigglythinginsertedhere) ).
+    This means don't use it, think of using it, or even stare at it with the intention of doing something we
+    didn't give you permission to do.
+
+    If you're giving us permission to your data, you're pinky swearing that it's yours or you have permission
+    to use it in the way you're using it.  Violations of other people's "stuff" is not taken lightly here at
+    FL, as we don't like it when people jack our Content.  So if you jack someone else's stuff and try and
+    pass it off to us like "oh hey bro, it's cool you can totally use this email id"  then you're going to
+    pay for anything bad that happens to us, our employees, our advertisers, vendors, family pets, or agents.
+
+
+4.  RESPONSIBILITIES AND YOU BREAK IT YOU BOUGHT IT.
+
+
+    FL may allow you to use its software.  You agree you will only use in accordance to this Agreement,
+    and agree to remain responsible for anything that you do here.  By using our software you're giving
+    us the right to use the content you share, to use it how we please.  Seriously, we can take your content
+    and hack the crap out of it, spin it, and even make money off of it without paying you a dime.  We'll
+    send you a fruit basket though..maybe..actually probably not.
+
+    This agreement is (probably) not revocable and goes on forever and ever and ever and ever.  But wait,
+    there's more.  If anything bad happens because of something related to stuff we collected from you,
+    you agree to pay us, our legal bills, or other bills that may result because of what you submit.
+
+
+5.  U MAD?  GONNA LAWYER UP BRO?
+
+
+    We have lawyers. Or at least good people who have lawyers.  A whole team of them that are ready to
+    knife fight on a whim, but we'd rather resolve this like gentlemen.  So if you have a problem you will
+    first come to us and tell us about this problem.  We may talk about this problem for awhile, and if
+    neither side is happy with the result then we can duke it out in Court.
+
+    The Court must be in India, and will be decided based on India law.  Any law that applies or controls
+    this contract is Indian law.   Yea, that's right, you just got hometurfed, bhai.  But you're agreeing
+    to this hometurf being India because we have to have one universal location to resolve disputes in.
+    Oh, and the winner of any dispute or lawsuit is entitled to have their attorneys' fees and costs
+    paid for by the loser.
+
+
+6.  SURVIVAL OF THE DEAD...AGREEMENT
+
+
+    Sometimes, people mutually agree to stuff that courts just won't uphold.  That shouldn't affect the
+    intent of our contract, though, so you agree that if a judge declares a portion of these Terms of
+    Service of no effect, the rest of the Terms of Service will stay in effect as much as is still possible
+    without the part that the judge struck down.
+
+
+7.  THIRD PARTY SHARING
+
+
+    Our tool might have links to third party websites that we have no control over, such as YouTube,
+    Facebook, and MySpace (seriously..who uses myspace anymore?).   We have no responsibility over this
+    content (although I like those companies who want to give us free shares in their company we're cool
+    with that) and therefore you have to take up any problems you have with those sites with their owners.
+    Leave us out of it.
+
+
+8.  LOUD NOISES
+
+
+    WE HAVE TO USE CAPS LOCK FOR THIS SECTION BECAUSE SOME DEAD GUY 100 YEARS AGO PROBABLY SAID IF WE DON'T
+    THEN IT DOESN'T COUNT.  SO WE CAN'T GUARANTEE THAT OUR SITE WON'T BREAK YOUR COMPUTER/PHONE/TABLET/DEVICE
+    OR THAT YOU'LL FIND IT AMUSING OR THAT IT WILL HELP YOU SAVE TIME.  WE TRY OUR BEST, BUT THAT'S ALL YOU
+    GET JUST LIKE WHEN YOU BUY SOMETHING AT A RANDOM GARAGE SALE..YOU'RE BUYING IT "AS IS" EVEN IF IT BLOWS
+    UP OR FRIES YOUR BRAIN.  SO EVEN IF SOMETHING TERRIBLE AND CATASTROPHIC HAPPENS BECAUSE YOU USED OUR
+    SOFTWARE, YOU CAN'T SUE US, OR ANYONE THAT IS CONNECTED WITH US. SORRY!  SO WE'RE DISCLAIMING ALL
+    WARRANTIES AND LIABILITY FOR ANYTHING AND EVERYTHING, WHETHER OR NOT WE KNEW OR SHOULD HAVE BEEN PSYCHIC
+    AND KNEW.  KING OF THE CASTLE MEANS THAT WHEN YOU ENTER OUR SOFTWARE/APP, YOU PLAY BY OUR RULES AND
+    IF WE END UP BEING RESPONSIBLE FOR SOMETHING, WE'RE NOT GOING TO PAY YOU A PENNY MORE THAN WHAT YOU MAY
+    HAVE PAID US IN THE PAST MONTH, OR A SAMOSA WHICHEVER IS CHEAPER.
+
+
+9. MISC THINGS
+
+
+    IF YOU'RE FROM A FOREIGN COUNTRY, WELCOME..GUTENTAG, NEI HO, BONJOUR, JAMBO, HOLA, TICK-TOCK-CLICK....
+    we're going to be transferring your information from our country to yours, so you're ok with us
+    transferring this information by virtue of having used our software. Unless you're from Germany, then..
+    well....let us know and we'll figure out what to do with you.Headings to these sections are meant to be
+    for entertainment purposes only and have no binding effect.  We can transfer our rights and obligations
+    in this agreement whenever we want.  Just because we don't put someone in a burlap sack and beat them
+    with a sock full of quarters for violating any section of this Agreement doesn't mean we're waiving our
+    right to enforce our Agreement, it just means we're cutting someone some slack.  It doesn't mean we'll
+    do the same for you or anyone else.  Too bad, we do what we want because we're the honey badgers of
+    coders.
+
+
+    Follow the law and don't be a jerk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You sir, have a lot of free time.
+    And we at FumeLabs, admire that. :-)
+

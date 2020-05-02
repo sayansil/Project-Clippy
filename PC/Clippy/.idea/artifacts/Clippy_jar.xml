@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Clippy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Clippy_jar</output-path>
+    <root id="archive" name="Clippy.jar">
+      <element id="module-output" name="Clippy" />
+    </root>
+  </artifact>
+</component>

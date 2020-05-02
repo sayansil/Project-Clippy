@@ -1,0 +1,31 @@
+.root {
+    -fx-background-color: #222;
+}
+#head-text {
+    -fx-font-size: 32px;
+    -fx-font-weight: bold;
+    -fx-fill: #fd1111;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+#sugg-text {
+    -fx-font-size: 18px;
+    -fx-fill: #eee;
+}
+#sx_btn {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#252525, #600);
+}
+#sx_btn:pressed {
+    -fx-background-color: linear-gradient(#600, #252525);
+}
+#smin_btn {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#252525, #600);
+}
+#smin_btn:pressed {
+    -fx-background-color: linear-gradient(#600, #252525);
+}

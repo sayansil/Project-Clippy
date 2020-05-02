@@ -1,0 +1,74 @@
+.root {
+    -fx-background-color: #222;
+}
+.label {
+    -fx-font-size: 15px;
+    -fx-text-fill: #fd1111;
+}
+#Login-text {
+    -fx-font-size: 42px;
+    -fx-font-weight: bold;
+    -fx-fill: #fd1111;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+#project-text {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-fill: #ad1111;
+}
+#action {
+    -fx-fill: FIREBRICK;
+    -fx-font-weight: bold;
+}
+#signin_btn {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#252525, #444);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+#signin_btn:pressed {
+    -fx-background-color: linear-gradient(#444, #252525);
+}
+#x_btn {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#252525, #333);
+}
+#x_btn:pressed {
+    -fx-background-color: linear-gradient(#333, #252525);
+}
+#min_btn {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#252525, #333);
+}
+#min_btn:pressed {
+    -fx-background-color: linear-gradient(#333, #252525);
+}
+#signup_link {
+    -fx-text-fill: #ddd;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: #222;
+}
+#signup_link:hover {
+    -fx-text-fill: #f33;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: #222;
+}
+#Terms_Conditions {
+    -fx-text-fill: #f33;
+    -fx-font-size: 10px;
+    -fx-font-family: "Arial";
+    -fx-background-color: #222;
+}
+#Terms_Conditions:hover {
+    -fx-text-fill: #ddd;
+    -fx-font-size: 10px;
+    -fx-font-family: "Arial";
+    -fx-background-color: #222;
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical">
+
+    <ImageView
+        android:src="@mipmap/paperclip_1"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="38dp"
+        android:layout_marginBottom="24dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="18dp"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Welcome to \nCLYPE !"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:layout_marginBottom="50dp"
+        android:textSize="15sp"
+        android:textAlignment="center"
+        android:textColor="@color/aluminum"
+        android:text="We are thrilled to have you here!!!"/>
+
+    <ImageView
+        android:src="@mipmap/next_icon"
+        android:id="@+id/next_signup"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:layout_marginBottom="5dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textAlignment="center"
+        android:textColor="@color/aluminum"
+        android:layout_marginTop="5dp"
+        android:text="Get started..."/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="8"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:textSize="15sp"
+            android:textColor="@color/aluminum"
+            android:textAlignment="textEnd"
+            android:text="Already have an account? click"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:id="@+id/new_login"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="textStart"
+            android:text=" here"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
